@@ -2,7 +2,7 @@
 
 ## Collections
 
-- [DE Shaw Interview Problems](./Deshaw.md) - A comprehensive collection of LeetCode problems commonly asked in DE Shaw interviews, organized by difficulty level (Easy, Medium, Hard)
+- [DE Shaw Interview Problems](./DEShaW) - A comprehensive collection of LeetCode problems commonly asked in DE Shaw interviews, organized by difficulty level (Easy, Medium, Hard)
 
 ## Overview
 
