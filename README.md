@@ -50,9 +50,9 @@ This repository is available under the MIT License.
 
 ---
 
-# LeetCode Problem Collection
+### DE Shaw Problems
 
-## Easy
+#### Easy
 
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
@@ -68,7 +68,7 @@ This repository is available under the MIT License.
 - [2644. Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)
 - [2660. Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)
 
-## Medium
+#### Medium
 
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [2875. Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)
@@ -138,7 +138,7 @@ This repository is available under the MIT License.
 - [2008. Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/)
 - [2680. Maximum OR](https://leetcode.com/problems/maximum-or/)
 
-## Hard
+#### Hard
 
 - [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
 - [2430. Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)
